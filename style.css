@@ -1,12 +1,12 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 
 :root {
   --primary: red;
-  font-family: "Kalam", cursive;
+  font-family: "Poppins", sans-serif;
 }
 
 body {
-  font-family: "Kalam", cursive;
+  font-family: "Poppins", sans-serif;
   color: black;
   text-align: center;
   margin: 0px;
@@ -23,7 +23,7 @@ button {
   border: 1px black solid;
   padding: 1rem 2rem 1rem 2rem;
   font-size: large;
-  font-family: "Kalam", cursive;
+  font-family: "Poppins", sans-serif;
 }
 
 textarea {
